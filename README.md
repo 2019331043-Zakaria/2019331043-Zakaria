@@ -2,13 +2,20 @@
 <h3 align="center">Student at CSE, SUST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2019331043-zakaria&label=Profile%20views&color=0e75b6&style=flat" alt="2019331043-zakaria" /> </p>
-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-- 🌱 I’m currently learning **Java**
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+- 🌱 I’m currently learning Java
 
 - 💬 Ask me about **Song :3**
 
 - 📫 How to reach me **zakaria829270@gmail.com**
 
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/75bohemian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="75bohemian" height="30" width="40" /></a>
