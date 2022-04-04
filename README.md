@@ -2,11 +2,11 @@
 <h3 align="center">Student at CSE, SUST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2019331043-zakaria&label=Profile%20views&color=0e75b6&style=flat" alt="2019331043-zakaria" /> </p>
-
-- 🌱 I’m currently learning **Java and other programming language**
+- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Song :3**
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
 - 📫 How to reach me **zakaria829270@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
