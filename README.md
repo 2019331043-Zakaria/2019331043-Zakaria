@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Songs :3**
+- 💬 Ask me about **DSU :3**
 
 - 📫 How to reach me **zakaria829270@gmail.com**
 
