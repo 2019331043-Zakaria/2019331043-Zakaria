@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2019331043-zakaria&label=Profile%20views&color=0e75b6&style=flat" alt="2019331043-zakaria" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and other programming language**
 
 - 💬 Ask me about **Song :3**
 
