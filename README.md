@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋, I'm Zakaria Hossain</h1>
+<h1 align="center">Hi there! 👋, I'm MD. Zakaria Hossain</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+at+CSE+,+SUST;A+Passionate+Competitive+Programmer+(maybe);DS%20|%20Algorithms%20|%20OOP%20;"></a>
 </p>
