@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning **Java and other programming language**
 
 - 💬 Ask me about **Song :3**
-
+- 
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 
 - 📫 How to reach me **zakaria829270@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
