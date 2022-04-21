@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **zakaria829270@gmail.com**
 
-- ⚡ Fun fact : Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact : Music🎵 are the reasons to live.
 
 <br>
 <h3 align="left">Connect with me:</h3>
