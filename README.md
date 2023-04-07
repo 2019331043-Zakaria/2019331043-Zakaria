@@ -5,15 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2019331043-zakaria&label=Profile%20views&color=0e75b6&style=flat" alt="2019331043-zakaria" /> </p>
 <br>
 
-
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **Song :3**
-
 - 📫 How to reach me **zakaria829270@gmail.com**
-
-- ⚡ Fun fact : Music🎵 is the reasons to live.
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
