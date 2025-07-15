@@ -12,7 +12,7 @@
 <br>
 ### 🏆 Competitive Programming Handles:
 [![Codeforces](https://img.shields.io/badge/Codeforces-Knight_of_Nineteen-005FFF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Knight_of_Nineteen)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-Porahoto-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/porahoto)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Porahoto-F5C518?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/porahoto)
 <br>
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/porahoto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_n_.i_.r_.v_.a_.n_.a_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-hossain-4a6984283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakaria829270@gmail.com) 
