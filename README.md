@@ -2,14 +2,15 @@
 
 - I'm a passionate **Competitive Programmer** and **Full Stack Developer** from Bangladesh.  
 - Currently pursuing a degree in **Computer Science & Engineering** at Shahjalal University of Science and Technology (SUST).
-<br>
-
+- Interested in AI/ML and integrating AI into real-world projects.
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=2019331043-Zakaria)
 <br>
 
-### 🌟 About Me:
+<!---### 🌟 About Me:
 🎓 Final year student. <br>💻 Experienced in competitive programming, problem solving, and algorithms.    <br>🤖 Interested in AI/ML and integrating AI into real-world projects.<br>
 <br>
+!-->
 ### 🏆 Competitive Programming Handles:
 [![Codeforces](https://img.shields.io/badge/Codeforces-Knight_of_Nineteen-005FFF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Knight_of_Nineteen)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-Porahoto-F5C518?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/porahoto)
