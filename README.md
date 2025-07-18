@@ -3,7 +3,9 @@
 - I'm a passionate **Competitive Programmer** and **Full Stack Developer** from Bangladesh.  
 - Currently pursuing a degree in **Computer Science & Engineering** at Shahjalal University of Science and Technology (SUST).
 - Interested in AI/ML and integrating AI into real-world projects.
-  
+
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=2019331043-Zakaria)
 <br>
 
